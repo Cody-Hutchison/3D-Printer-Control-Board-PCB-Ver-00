@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 3d Printer Control PCB.PcbDoc   09-Nov-22  16:28:37
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : 3d Printer Control PCB-Plated.TXT
+EIA File   : 3d Printer Control PCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.7mm (28mil)                                             Round             44        PTH        186.96mm (7.36inch)
+T2      0.711mm (28mil)                                           Round             40        PTH        506.54mm (19.94inch)
+T3      1.1mm (43mil)                                             Round             38        PTH        360.61mm (14.20inch)
+T4      1.11mm (44mil)                                            Round             13        PTH        48.26mm (1.90inch)
+T5      1.25mm (49mil)                                            Round             12        PTH        100.29mm (3.95inch)
+T6      1.3mm (51mil)                                             Round             6         PTH        68.58mm (2.70inch)
+T7      1.778mm (70mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T8      3.175mm (125mil)                                          Round             4         PTH        375.92mm (14.80inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              158
+
+Total Processing Time (hh:mm:ss) : 00:00:00
